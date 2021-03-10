@@ -1,0 +1,2875 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1830276,51.08731948 ]
+    },
+    "properties": {
+    "TYPE":"Library",
+    "NAME":"Bowness Library",
+    "ADDRESS":"6532 BOWNESS RD NW",
+    "COMM_CODE":"BOW",
+    "location":"(51.087319476786774, -114.18302758028041)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0611237,51.0447061 ]
+    },
+    "properties": {
+    "TYPE":"Attraction",
+    "NAME":"Glenbow Alberta Museum",
+    "ADDRESS":"130 9 AV SE",
+    "COMM_CODE":"DNC",
+    "location":"(51.04470610101934, -114.06112369577545)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0983343,51.04417435 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Sunalta Community Centre",
+    "ADDRESS":"1627 10 AV SW",
+    "COMM_CODE":"SNA",
+    "location":"(51.04417435024193, -114.09833433626284)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0087424,51.03009579 ]
+    },
+    "properties": {
+    "TYPE":"Attraction",
+    "NAME":"Inglewood Bird Sanctuary",
+    "ADDRESS":"2425 9 AV SE",
+    "COMM_CODE":"ING",
+    "location":"(51.030095793296894, -114.0087423751395)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0639146,51.11218619 ]
+    },
+    "properties": {
+    "TYPE":"PHS Clinic",
+    "NAME":"Thornhill Community Health Centre",
+    "ADDRESS":"6617 Centre ST NW",
+    "COMM_CODE":"HUN",
+    "location":"(51.11218619333126, -114.06391459432675)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0624502,51.04408707 ]
+    },
+    "properties": {
+    "TYPE":"Attraction",
+    "NAME":"Rocky Mountaineer Rail Tours",
+    "ADDRESS":"115 9 AV SW",
+    "COMM_CODE":"DNC",
+    "location":"(51.044087065157676, -114.06245018496966)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0785467,51.00640371 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Windsor Park Community Centre",
+    "ADDRESS":"5304 6 ST SW",
+    "COMM_CODE":"WND",
+    "location":"(51.00640371439741, -114.07854671214409)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1065071,51.06532159 ]
+    },
+    "properties": {
+    "TYPE":"PHS Clinic",
+    "NAME":"North Hill Community Health Centre",
+    "ADDRESS":"1527 19 ST NW",
+    "COMM_CODE":"HOU",
+    "location":"(51.06532159267874, -114.10650709115143)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0151076,50.90933858 ]
+    },
+    "properties": {
+    "TYPE":"Attraction",
+    "NAME":"Fish Creek Provincial Park (Bow Valley Ranch)",
+    "ADDRESS":"15979 Bow Bottom TR SE",
+    "COMM_CODE":"FPK",
+    "location":"(50.909338581108344, -114.01510755024893)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.2456446,51.12459038 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Tuscany Community Centre",
+    "ADDRESS":"212 Tuscany Way NW",
+    "COMM_CODE":"TUS",
+    "location":"(51.1245903809456, -114.24564461586554)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1120604,50.99811739 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"North Glenmore Park Community Centre",
+    "ADDRESS":"2231 Longridge DR SW",
+    "COMM_CODE":"NGM",
+    "location":"(50.99811739400991, -114.11206037488374)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1649551,51.07552511 ]
+    },
+    "properties": {
+    "TYPE":"Social Dev Ctr",
+    "NAME":"Bowmont",
+    "ADDRESS":"5000 BOWNESS RD NW",
+    "COMM_CODE":"MON",
+    "location":"(51.075525108644335, -114.16495514895213)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0743509,50.98313705 ]
+    },
+    "properties": {
+    "TYPE":"Social Dev Ctr",
+    "NAME":"South Area",
+    "ADDRESS":"502 HERITAGE DR SW",
+    "COMM_CODE":"KIN",
+    "location":"(50.98313705070583, -114.07435086091301)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0662411,51.0853217 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Highland Park Community Centre",
+    "ADDRESS":"3716 2 ST NW",
+    "COMM_CODE":"HPK",
+    "location":"(51.08532170060153, -114.06624106050928)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0647513,51.15693061 ]
+    },
+    "properties": {
+    "TYPE":"Library",
+    "NAME":"Country Hills Library",
+    "ADDRESS":"11950 Country Village Link NE",
+    "COMM_CODE":"CHV",
+    "location":"(51.156930605182936, -114.0647513142184)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1492338,51.0919828 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Varsity Community Centre",
+    "ADDRESS":"4303 Varsity DR NW",
+    "COMM_CODE":"VAR",
+    "location":"(51.091982801745985, -114.14923384882196)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.05869,50.98251763 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Fairview Community Centre",
+    "ADDRESS":"8038 Fairmount DR SE",
+    "COMM_CODE":"FAI",
+    "location":"(50.98251763288699, -114.05868999355175)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1508801,51.05188635 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Wildwood Community Centre",
+    "ADDRESS":"4411 Spruce DR SW",
+    "COMM_CODE":"WLD",
+    "location":"(51.051886350376456, -114.15088014874473)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1507529,51.04279765 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Rosscarrock Community Centre",
+    "ADDRESS":"4411 10 AV SW",
+    "COMM_CODE":"RCK",
+    "location":"(51.04279764930228, -114.15075286617495)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1320962,50.92760031 ]
+    },
+    "properties": {
+    "TYPE":"Attraction",
+    "NAME":"Fish Creek Provincial Park (Learning Centre)",
+    "ADDRESS":"13931 Woodpath RD SW",
+    "COMM_CODE":"FPK",
+    "location":"(50.92760030790942, -114.13209621831759)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0092457,51.13131007 ]
+    },
+    "properties": {
+    "TYPE":"Visitor Info",
+    "NAME":"Tourism Calgary Airport",
+    "ADDRESS":"2000 Airport RD NE",
+    "COMM_CODE":"CIA",
+    "location":"(51.13131007166948, -114.00924569013944)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.08618,50.96358656 ]
+    },
+    "properties": {
+    "TYPE":"Library",
+    "NAME":"Southwood Library",
+    "ADDRESS":"924 SOUTHLAND DR SW",
+    "COMM_CODE":"SOW",
+    "location":"(50.96358655798522, -114.08617997642551)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1795107,51.11959515 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Ranchlands Community Centre",
+    "ADDRESS":"7713 Ranchview DR NW",
+    "COMM_CODE":"RAN",
+    "location":"(51.11959514517543, -114.17951073267321)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1238071,51.02323937 ]
+    },
+    "properties": {
+    "TYPE":"Social Dev Ctr",
+    "NAME":"West Area",
+    "ADDRESS":"2539 33 AV SW",
+    "COMM_CODE":"CFC",
+    "location":"(51.023239371972956, -114.12380714878877)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0792565,51.07982299 ]
+    },
+    "properties": {
+    "TYPE":"Social Dev Ctr",
+    "NAME":"North Area",
+    "ADDRESS":"905 30 AV NW",
+    "COMM_CODE":"MOP",
+    "location":"(51.0798229863009, -114.0792565329423)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0721296,51.04116344 ]
+    },
+    "properties": {
+    "TYPE":"PHS Clinic",
+    "NAME":"Sheldon M. Chumir Health Centre",
+    "ADDRESS":"1213 - 4 ST SW",
+    "COMM_CODE":"BLN",
+    "location":"(51.04116344159869, -114.07212956123551)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0060594,50.96158778 ]
+    },
+    "properties": {
+    "TYPE":"Library",
+    "NAME":"Quarry Park Library",
+    "ADDRESS":"108 Quarry Park RD SE",
+    "COMM_CODE":"DDG",
+    "location":"(50.96158777667302, -114.00605942056835)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.041143,51.03842577 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Ramsay Community Centre",
+    "ADDRESS":"1136 8 ST SE",
+    "COMM_CODE":"RAM",
+    "location":"(51.03842577148743, -114.04114298429343)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0364196,50.88636251 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Chaparral Residents Association",
+    "ADDRESS":"225 CHAPARRAL DR SE",
+    "COMM_CODE":"CHA",
+    "location":"(50.88636251240058, -114.03641956715506)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.9424869,51.06004504 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Marlborough Park Community Centre",
+    "ADDRESS":"6021 Madigan DR NE",
+    "COMM_CODE":"MPK",
+    "location":"(51.0600450440598, -113.94248694302783)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0675212,51.0427492 ]
+    },
+    "properties": {
+    "TYPE":"Visitor Info",
+    "NAME":"Tourism Calgary Central Office",
+    "ADDRESS":"200 238 11 AV SW",
+    "COMM_CODE":"BLN",
+    "location":"(51.0427491978594, -114.06752118869719)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0570556,51.04536904 ]
+    },
+    "properties": {
+    "TYPE":"Visitor Info",
+    "NAME":"Calgary City Hall & Municipal Complex",
+    "ADDRESS":"800 Macleod TR SE",
+    "COMM_CODE":"DNC",
+    "location":"(51.04536904425736, -114.05705557152875)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.129881,50.95454752 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Cedarbrae Community Centre",
+    "ADDRESS":"11024 Oakfield DR SW",
+    "COMM_CODE":"CED",
+    "location":"(50.9545475196074, -114.1298810146555)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1368069,51.06051475 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Parkdale Community Centre",
+    "ADDRESS":"3512 5 AV NW",
+    "COMM_CODE":"PKD",
+    "location":"(51.060514752049905, -114.13680689066544)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.063957,50.89803403 ]
+    },
+    "properties": {
+    "TYPE":"Library",
+    "NAME":"Shawnessy Library",
+    "ADDRESS":"333 SHAWVILLE BV SE",
+    "COMM_CODE":"SHN",
+    "location":"(50.89803403456662, -114.06395702504017)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0641651,51.0454608 ]
+    },
+    "properties": {
+    "TYPE":"Attraction",
+    "NAME":"Contemporary Calgary Art Gallery",
+    "ADDRESS":"117 8 AV SW",
+    "COMM_CODE":"DNC",
+    "location":"(51.04546080414715, -114.06416513122672)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1089218,51.07030324 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Banff Trail Community Centre",
+    "ADDRESS":"2115 20 AV NW",
+    "COMM_CODE":"BNF",
+    "location":"(51.07030323975356, -114.10892182051344)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.121361,51.06404099 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"St. Andrews Heights Community Centre",
+    "ADDRESS":"2504 13 AV NW",
+    "COMM_CODE":"STA",
+    "location":"(51.06404098711891, -114.12136097042293)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0751574,50.90670901 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Shawnessy Community Centre",
+    "ADDRESS":"224 Shawmeadows RD SW",
+    "COMM_CODE":"SHN",
+    "location":"(50.90670901060858, -114.07515738296392)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0319163,50.94187315 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Lake Bonavista Downs Community Centre",
+    "ADDRESS":"1418 Lake Ontario RD SE",
+    "COMM_CODE":"BDO",
+    "location":"(50.941873148895105, -114.03191627422262)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.087382,51.08682876 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Cambrian Heights Community Centre",
+    "ADDRESS":"600 Northmount DR NW",
+    "COMM_CODE":"CAM",
+    "location":"(51.086828755847634, -114.08738199941789)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0743356,51.07275856 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Mount Pleasant Community Centre",
+    "ADDRESS":"",
+    "COMM_CODE":"MOP",
+    "location":"(51.07275856371514, -114.0743356266661)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1778466,51.06138085 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Coach Hill/Patterson Heights Community Centre",
+    "ADDRESS":"60 Patterson BV SW",
+    "COMM_CODE":"PAT",
+    "location":"(51.0613808546056, -114.17784663152653)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1048706,50.9411119 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Woodcreek Community Centre",
+    "ADDRESS":"1991 Woodview DR SW",
+    "COMM_CODE":"WOO",
+    "location":"(50.941111899205765, -114.10487059728527)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.039942,51.05007404 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Bridgeland / Riverside Community Centre",
+    "ADDRESS":"917 Centre Av NE",
+    "COMM_CODE":"BRD",
+    "location":"(51.050074042928564, -114.03994198208092)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0639677,51.11187982 ]
+    },
+    "properties": {
+    "TYPE":"Library",
+    "NAME":"Judith Umbach Library",
+    "ADDRESS":"6617 CENTRE ST N",
+    "COMM_CODE":"HUN",
+    "location":"(51.11187981745397, -114.06396773938215)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.9652839,51.04480558 ]
+    },
+    "properties": {
+    "TYPE":"Library",
+    "NAME":"Forest Lawn Branch",
+    "ADDRESS":"4807 8 AV SE",
+    "COMM_CODE":"FLN",
+    "location":"(51.044805584747444, -113.96528388609507)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0741232,51.0469256 ]
+    },
+    "properties": {
+    "TYPE":"Court",
+    "NAME":"Alberta Provincial Court (Rural)",
+    "ADDRESS":"# 401-S 601 5 ST SW",
+    "COMM_CODE":"DNC",
+    "location":"(51.04692560365985, -114.074123212687)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0661323,51.0536706 ]
+    },
+    "properties": {
+    "TYPE":"Attraction",
+    "NAME":"Trans Canada Trail Pavillion",
+    "ADDRESS":"Bow River Pathway at 2 ST SW",
+    "COMM_CODE":"DNC",
+    "location":"(51.05367059958027, -114.06613232390751)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.2687425,51.08860104 ]
+    },
+    "properties": {
+    "TYPE":"Attraction",
+    "NAME":"Calaway Park",
+    "ADDRESS":"Springbank RD & Trans Canada HWY",
+    "COMM_CODE":"VAL",
+    "location":"(51.08860103724747, -114.26874250057853)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0447379,51.06018402 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Renfrew Community Association",
+    "ADDRESS":"811 Radford RD NE",
+    "COMM_CODE":"REN",
+    "location":"(51.060184020846826, -114.04473790880562)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0569959,51.0387852 ]
+    },
+    "properties": {
+    "TYPE":"Attraction",
+    "NAME":"Grain Academy Museum",
+    "ADDRESS":"20 Roundup WY SE",
+    "COMM_CODE":"BLN",
+    "location":"(51.03878519868122, -114.05699586689883)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0860375,51.07675296 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Rosemont Community Centre",
+    "ADDRESS":"2807 10 ST NW",
+    "COMM_CODE":"CAP",
+    "location":"(51.076752962370186, -114.08603750615559)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0346631,51.0304693 ]
+    },
+    "properties": {
+    "TYPE":"Attraction",
+    "NAME":"Crossroads Market",
+    "ADDRESS":"1235 26 AV SE",
+    "COMM_CODE":"AYB",
+    "location":"(51.03046930455906, -114.0346630730894)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1321766,51.06418294 ]
+    },
+    "properties": {
+    "TYPE":"Hospital",
+    "NAME":"Foothills Hospital",
+    "ADDRESS":"1403 - 29 ST NW",
+    "COMM_CODE":"STA",
+    "location":"(51.064182937103176, -114.13217660430655)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1361774,50.99835974 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Lakeview Community Centre",
+    "ADDRESS":"6110 34 ST SW",
+    "COMM_CODE":"LKV",
+    "location":"(50.998359742341016, -114.13617740362398)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0741232,51.0469256 ]
+    },
+    "properties": {
+    "TYPE":"Court",
+    "NAME":"Alberta Court of Queens Bench",
+    "ADDRESS":"# 604-N 601 5 ST SW",
+    "COMM_CODE":"DNC",
+    "location":"(51.04692560365985, -114.074123212687)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.9839435,51.07901635 ]
+    },
+    "properties": {
+    "TYPE":"Hospital",
+    "NAME":"Peter Lougheed Medical Centre",
+    "ADDRESS":"3500 - 26 AV NE",
+    "COMM_CODE":"SUN",
+    "location":"(51.07901634932495, -113.98394351382268)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.9535557,51.07553893 ]
+    },
+    "properties": {
+    "TYPE":"PHS Clinic",
+    "NAME":"Village Square Community Health Centre",
+    "ADDRESS":"2623 - 56 ST NE",
+    "COMM_CODE":"PIN",
+    "location":"(51.07553892796213, -113.95355569514419)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.9441792,50.88118896 ]
+    },
+    "properties": {
+    "TYPE":"Library",
+    "NAME":"Seton Library",
+    "ADDRESS":"4995 MARKET ST SE",
+    "COMM_CODE":"SET",
+    "location":"(50.88118895884824, -113.94417916235368)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0773512,51.09081185 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Highwood Community Centre",
+    "ADDRESS":"16 Harlow AV NW",
+    "COMM_CODE":"HIW",
+    "location":"(51.09081185306712, -114.0773512197879)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0955034,51.02544582 ]
+    },
+    "properties": {
+    "TYPE":"Library",
+    "NAME":"Giuffre Family Library",
+    "ADDRESS":"3223 14 ST SW",
+    "COMM_CODE":"SOC",
+    "location":"(51.025445819741115, -114.09550344771091)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0741232,51.0469256 ]
+    },
+    "properties": {
+    "TYPE":"Court",
+    "NAME":"Alberta Provincial Court (Traffic)",
+    "ADDRESS":"# 203-S 601 5 ST SW",
+    "COMM_CODE":"DNC",
+    "location":"(51.04692560365985, -114.074123212687)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0814341,51.06215285 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Rosedale Community Centre",
+    "ADDRESS":"901 11 AV NW",
+    "COMM_CODE":"RDL",
+    "location":"(51.06215284787542, -114.08143411839842)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.01913,51.06516302 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Crossroads Community Centre",
+    "ADDRESS":"1803 14 AV NE",
+    "COMM_CODE":"MAL",
+    "location":"(51.06516302493362, -114.01913004295139)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1388347,51.09654291 ]
+    },
+    "properties": {
+    "TYPE":"Library",
+    "NAME":"Nose Hill Library",
+    "ADDRESS":"1530 NORTHMOUNT DR NW",
+    "COMM_CODE":"BRE",
+    "location":"(51.09654291244681, -114.13883468496591)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.9448539,51.08740934 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Temple Community Centre",
+    "ADDRESS":"167 Templegreen RD NE",
+    "COMM_CODE":"TEM",
+    "location":"(51.087409341889156, -113.94485394505242)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0821755,51.02346188 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Elbow Park Community Centre",
+    "ADDRESS":"800 34 AV SW",
+    "COMM_CODE":"EPK",
+    "location":"(51.023461881343515, -114.08217549332538)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0216631,50.93960081 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Queensland / Diamond Cove Community Centre",
+    "ADDRESS":"649 Queensland DR SE",
+    "COMM_CODE":"QLD",
+    "location":"(50.93960080590387, -114.0216630923592)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.10461,51.05818078 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"West Hillhurst Community Centre",
+    "ADDRESS":"1940 6 AV NW",
+    "COMM_CODE":"WHL",
+    "location":"(51.058180783465474, -114.10461004572657)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1471029,51.16891135 ]
+    },
+    "properties": {
+    "TYPE":"Library",
+    "NAME":"Sage Hill Library",
+    "ADDRESS":"19 SAGE HILL PS NW",
+    "COMM_CODE":"SGH",
+    "location":"(51.16891134721613, -114.14710286902496)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1498178,51.03299809 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Glendale/Glendale Meadows Community Centre",
+    "ADDRESS":"2405 Glenmount DR SW",
+    "COMM_CODE":"GDL",
+    "location":"(51.032998091299575, -114.14981783034104)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1358227,51.04041137 ]
+    },
+    "properties": {
+    "TYPE":"Library",
+    "NAME":"Nicholls Family Library",
+    "ADDRESS":"1421 33 ST SW",
+    "COMM_CODE":"RCK",
+    "location":"(51.04041136768391, -114.13582272876572)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.983567,50.9062787 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"McKenzie Lake Community Centre",
+    "ADDRESS":"16198 McKenzie Lake WY SE",
+    "COMM_CODE":"MCK",
+    "location":"(50.90627869856965, -113.98356700064974)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0722785,51.12372676 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Huntington Hills Community Centre",
+    "ADDRESS":"520 78 AV NW",
+    "COMM_CODE":"HUN",
+    "location":"(51.12372675642276, -114.07227849946028)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.9709288,51.09882312 ]
+    },
+    "properties": {
+    "TYPE":"Attraction",
+    "NAME":"The Police Museum",
+    "ADDRESS":"5111 47 ST NE",
+    "COMM_CODE":"",
+    "location":"(51.098823119734, -113.97092881500096)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.9478248,51.1202881 ]
+    },
+    "properties": {
+    "TYPE":"Library",
+    "NAME":"Saddletowne Library",
+    "ADDRESS":"7556 FALCONRIDGE BV NE",
+    "COMM_CODE":"MRT",
+    "location":"(51.12028809665206, -113.94782479993012)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0964586,51.07127566 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Capitol Hill Community Centre",
+    "ADDRESS":"1531 21 AV NW",
+    "COMM_CODE":"CAP",
+    "location":"(51.07127566270025, -114.09645862486829)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0521206,51.07736047 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Winston Heights/Mountview Community Centre",
+    "ADDRESS":"520 27 AV NE",
+    "COMM_CODE":"WIN",
+    "location":"(51.07736047022461, -114.05212058905765)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.072752,51.01536526 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Elboya Heights Community Centre",
+    "ADDRESS":"416 Park AV SW",
+    "COMM_CODE":"EYA",
+    "location":"(51.01536525830262, -114.07275204611734)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0163854,50.97245358 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Riverbend Community Centre",
+    "ADDRESS":"19 Rivervalley DR SE",
+    "COMM_CODE":"RIV",
+    "location":"(50.97245358267971, -114.01638539321948)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1363299,51.04750374 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Spruce Cliff Community Centre",
+    "ADDRESS":"3375 Spruce DR SW",
+    "COMM_CODE":"SPR",
+    "location":"(51.04750374462838, -114.13632989210797)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1020364,50.95434611 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Braeside Community Centre",
+    "ADDRESS":"11024 Braeside DR SW",
+    "COMM_CODE":"BRA",
+    "location":"(50.95434611067999, -114.10203640180053)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1441715,51.12848693 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Edgemont Community Centre",
+    "ADDRESS":"33 Edgevalley CI NW",
+    "COMM_CODE":"EDG",
+    "location":"(51.12848692994772, -114.14417148714969)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0646681,51.04872179 ]
+    },
+    "properties": {
+    "TYPE":"Court",
+    "NAME":"Alberta Court of Appeal",
+    "ADDRESS":"2600 450 1 ST SW",
+    "COMM_CODE":"DNC",
+    "location":"(51.04872179174605, -114.0646680885537)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0566252,50.91543769 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Mid-Sun Community Centre",
+    "ADDRESS":"50 Midpark RI SE",
+    "COMM_CODE":"MID",
+    "location":"(50.915437688872004, -114.05662520454203)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1925405,51.13086974 ]
+    },
+    "properties": {
+    "TYPE":"Library",
+    "NAME":"Crowfoot Library",
+    "ADDRESS":"8665 NOSE HILL DR NW",
+    "COMM_CODE":"ARB",
+    "location":"(51.13086973775027, -114.19254054018799)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.2008558,51.09166254 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Bowness / Greenwood / Greenbriar Community Centre",
+    "ADDRESS":"7904 43 AV NW",
+    "COMM_CODE":"BOW",
+    "location":"(51.09166253553679, -114.20085583758586)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.9672201,51.04504854 ]
+    },
+    "properties": {
+    "TYPE":"PHS Clinic",
+    "NAME":"East Calgary Health Centre",
+    "ADDRESS":"4715 8 AV SE",
+    "COMM_CODE":"FLN",
+    "location":"(51.04504854027524, -113.9672200855659)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.9586913,51.04286372 ]
+    },
+    "properties": {
+    "TYPE":"Social Dev Ctr",
+    "NAME":"East Area",
+    "ADDRESS":"1011 52 ST SE",
+    "COMM_CODE":"FLN",
+    "location":"(51.04286372286171, -113.95869132027342)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1479576,51.07455988 ]
+    },
+    "properties": {
+    "TYPE":"Hospital",
+    "NAME":"Alberta Children's Hospital",
+    "ADDRESS":"2888 Shaganappi Trail NW",
+    "COMM_CODE":"UOC",
+    "location":"(51.07455988033879, -114.14795761511185)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.9985557,51.04212976 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Albert Park / Radisson Heights Community Centre",
+    "ADDRESS":"2636 12 AV SE",
+    "COMM_CODE":"ALB",
+    "location":"(51.04212975529989, -113.99855566623944)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0741232,51.0469256 ]
+    },
+    "properties": {
+    "TYPE":"Court",
+    "NAME":"Alberta Provincial Court (Youth)",
+    "ADDRESS":"# 201-N 601 5 ST SW",
+    "COMM_CODE":"DNC",
+    "location":"(51.04692560365985, -114.074123212687)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.2358294,51.15901956 ]
+    },
+    "properties": {
+    "TYPE":"Attraction",
+    "NAME":"Butterfield Acres Children's Farm",
+    "ADDRESS":"Rocky Ridge RD & 120 AV NW",
+    "COMM_CODE":"02A",
+    "location":"(51.15901955654486, -114.23582941054728)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.2147644,51.12170817 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Scenic Acres Community Centre",
+    "ADDRESS":"8825 Scurfield DR NW",
+    "COMM_CODE":"SCE",
+    "location":"(51.12170816918224, -114.21476435610282)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0877857,50.97474555 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Haysboro Community Centre",
+    "ADDRESS":"1204 89 AV SW",
+    "COMM_CODE":"HAY",
+    "location":"(50.97474554985502, -114.08778574697868)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.9796488,51.03794044 ]
+    },
+    "properties": {
+    "TYPE":"Social Dev Ctr",
+    "NAME":"Forest Lawn",
+    "ADDRESS":"3810 17 AV SE",
+    "COMM_CODE":"FLN",
+    "location":"(51.03794043735162, -113.97964875444161)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0651426,50.97317046 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Acadia Community Centre",
+    "ADDRESS":"240 90 AV SE",
+    "COMM_CODE":"ACA",
+    "location":"(50.973170463392194, -114.06514256397735)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0079417,50.92175537 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Deer Run Community Centre",
+    "ADDRESS":"2223 146 AV SE",
+    "COMM_CODE":"DRN",
+    "location":"(50.92175537205221, -114.00794165335118)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0760846,51.03336143 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Cliffe Bungalow/Mission Community Association",
+    "ADDRESS":"2201 Cliff ST SW",
+    "COMM_CODE":"CLI",
+    "location":"(51.033361430010245, -114.07608458241921)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0479577,51.03999662 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Beltline Victoria and Connaught Community Centre",
+    "ADDRESS":"1302 6 ST SE",
+    "COMM_CODE":"BLN",
+    "location":"(51.039996621460574, -114.04795765838207)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0741232,51.0469256 ]
+    },
+    "properties": {
+    "TYPE":"Court",
+    "NAME":"Alberta Provincial Court (Criminal)",
+    "ADDRESS":"# 402-S 601 5 ST SW",
+    "COMM_CODE":"DNC",
+    "location":"(51.04692560365985, -114.074123212687)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1352659,51.01838774 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Rutland Park Community Centre",
+    "ADDRESS":"3130 40 AV SW",
+    "COMM_CODE":"RUT",
+    "location":"(51.018387743843064, -114.13526594751386)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0316394,51.04406589 ]
+    },
+    "properties": {
+    "TYPE":"Attraction",
+    "NAME":"Calgary Zoo, Botanical Garden & Prehistoric Park",
+    "ADDRESS":"1300 Zoo RD NE",
+    "COMM_CODE":"BRD",
+    "location":"(51.04406589283427, -114.03163939960726)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.2154069,51.0823997 ]
+    },
+    "properties": {
+    "TYPE":"Attraction",
+    "NAME":"WinSport's Canada Olympic Park",
+    "ADDRESS":"88 Canada Olympic RD SW",
+    "COMM_CODE":"COP",
+    "location":"(51.082399702606445, -114.21540689257601)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.9890902,51.02671301 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Dover Community Centre",
+    "ADDRESS":"3033 30 AV SE",
+    "COMM_CODE":"DOV",
+    "location":"(51.02671300502135, -113.98909015497624)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.9308847,51.07635425 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Monterey Park Community Centre",
+    "ADDRESS":"2707 Catalina BV NE",
+    "COMM_CODE":"MOR",
+    "location":"(51.07635425278112, -113.93088467016644)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.9517038,50.88210185 ]
+    },
+    "properties": {
+    "TYPE":"Hospital",
+    "NAME":"South Health Campus",
+    "ADDRESS":"4448 FRONT ST SE",
+    "COMM_CODE":"SET",
+    "location":"(50.88210185113848, -113.95170381192895)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1137258,50.96863014 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Palliser, Bayview, Pumphill Community Centre",
+    "ADDRESS":"2323 Palliser DR SW",
+    "COMM_CODE":"PAL",
+    "location":"(50.968630143965065, -114.11372575942883)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0925172,51.05754164 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Hillhurst/Sunnyside Community Centre",
+    "ADDRESS":"1320 5 AV NW",
+    "COMM_CODE":"HIL",
+    "location":"(51.057541635120565, -114.09251724218966)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0983094,51.02599472 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"South Calgary Community Centre",
+    "ADDRESS":"3130 16 ST SW",
+    "COMM_CODE":"SOC",
+    "location":"(51.02599472198563, -114.09830938027513)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0596401,51.07891772 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Tuxedo Park Community Centre",
+    "ADDRESS":"202 29 AV NE",
+    "COMM_CODE":"TUX",
+    "location":"(51.078917718588066, -114.0596401440611)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1356884,51.07703331 ]
+    },
+    "properties": {
+    "TYPE":"Attraction",
+    "NAME":"Olympic Oval - University of Calgary",
+    "ADDRESS":"188 University CO NW",
+    "COMM_CODE":"UOC",
+    "location":"(51.07703331008856, -114.13568838838447)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.063069,51.04433245 ]
+    },
+    "properties": {
+    "TYPE":"Visitor Info",
+    "NAME":"Tourism Calgary Tower",
+    "ADDRESS":"101 9 AV SW",
+    "COMM_CODE":"DNC",
+    "location":"(51.044332451116105, -114.06306897165071)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1041076,51.0662269 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Hounsfield Heights/Briar Hill Community Centre",
+    "ADDRESS":"1922 14 AV NW",
+    "COMM_CODE":"HOU",
+    "location":"(51.0662268958542, -114.10410759347351)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0569959,51.0387852 ]
+    },
+    "properties": {
+    "TYPE":"Attraction",
+    "NAME":"Calgary Stampede Park",
+    "ADDRESS":"1410 Olympic WY SE",
+    "COMM_CODE":"BLN",
+    "location":"(51.03878519868122, -114.05699586689883)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.972859,51.12084344 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Saddle Ridge Community Centre",
+    "ADDRESS":"7614 42 ST NE",
+    "COMM_CODE":"SRI",
+    "location":"(51.12084343878063, -113.97285897998094)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0176584,51.04198673 ]
+    },
+    "properties": {
+    "TYPE":"Attraction",
+    "NAME":"Bow Habitat Station",
+    "ADDRESS":"1440 17A ST SE",
+    "COMM_CODE":"ING",
+    "location":"(51.041986727725785, -114.01765842529399)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.9742887,51.0582661 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Calgary Marlborough Community Centre",
+    "ADDRESS":"636 Marlborough WY NE",
+    "COMM_CODE":"MRL",
+    "location":"(51.0582661000614, -113.97428871267957)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0740173,50.98295747 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Kingsland Community Centre",
+    "ADDRESS":"505 78 AV SW",
+    "COMM_CODE":"KIN",
+    "location":"(50.982957465890294, -114.07401734259619)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0551754,51.04551175 ]
+    },
+    "properties": {
+    "TYPE":"Library",
+    "NAME":"Central Library",
+    "ADDRESS":"800 3 ST SE",
+    "COMM_CODE":"DNC",
+    "location":"(51.045511752813894, -114.05517536017112)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0709401,50.97507203 ]
+    },
+    "properties": {
+    "TYPE":"PHS Clinic",
+    "NAME":"Acadia Community Health Centre",
+    "ADDRESS":"151 - 86 AV SE",
+    "COMM_CODE":"ACA",
+    "location":"(50.97507203441003, -114.0709401043907)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0778146,51.00107649 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Meadowlark Park Community Centre",
+    "ADDRESS":"623 58 AV SW",
+    "COMM_CODE":"MEA",
+    "location":"(51.00107649024973, -114.07781461377053)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1145557,51.01350426 ]
+    },
+    "properties": {
+    "TYPE":"Attraction",
+    "NAME":"The Military Museums",
+    "ADDRESS":"4520 Crowchild TR SW",
+    "COMM_CODE":"ALT",
+    "location":"(51.013504259568315, -114.11455574951816)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.9463297,51.04590884 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Penbrooke Meadows Community Centre",
+    "ADDRESS":"6100 8 AV SE",
+    "COMM_CODE":"PEN",
+    "location":"(51.04590883610406, -113.94632973926619)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0262459,50.918028 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Parkland Community Centre",
+    "ADDRESS":"505 Parkvalley RD SE",
+    "COMM_CODE":"PKL",
+    "location":"(50.9180279952265, -114.02624587819763)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.01182,51.09401393 ]
+    },
+    "properties": {
+    "TYPE":"Attraction",
+    "NAME":"Aero Space Museum of Calgary",
+    "ADDRESS":"4629 McCall WY NE",
+    "COMM_CODE":"PEG",
+    "location":"(51.094013925454185, -114.01181998844031)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.9637375,51.02289563 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Erin Woods Community Centre",
+    "ADDRESS":"83 Erin Park DR SE",
+    "COMM_CODE":"ERI",
+    "location":"(51.02289563481009, -113.96373751726838)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0632333,51.04763278 ]
+    },
+    "properties": {
+    "TYPE":"Attraction",
+    "NAME":"Calgary Chamber of Commerce",
+    "ADDRESS":"237 8 Ave SE",
+    "COMM_CODE":"DNC",
+    "location":"(51.04763278161237, -114.06323328944796)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1799694,51.04727008 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Strathcona/Christie Park Community Centre",
+    "ADDRESS":"277 Strathcona DR SW",
+    "COMM_CODE":"STR",
+    "location":"(51.04727008025469, -114.17996942904307)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.138873,50.95047879 ]
+    },
+    "properties": {
+    "TYPE":"Attraction",
+    "NAME":"Tsuu T'ina Culture Museum",
+    "ADDRESS":"3700 Anderson RD SW",
+    "COMM_CODE":"CED",
+    "location":"(50.950478794101464, -114.13887303116144)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.058575,50.90257527 ]
+    },
+    "properties": {
+    "TYPE":"PHS Clinic",
+    "NAME":"South Calgary Health Centre",
+    "ADDRESS":"31 Sunpark Plaza SE",
+    "COMM_CODE":"SDC",
+    "location":"(50.90257527258776, -114.05857497443219)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0633325,51.11210128 ]
+    },
+    "properties": {
+    "TYPE":"Social Dev Ctr",
+    "NAME":"Thornhill",
+    "ADDRESS":"6617 CENTRE ST NW",
+    "COMM_CODE":"HUN",
+    "location":"(51.112101279375736, -114.06333245492493)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.9768196,51.0308198 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Forest Lawn Community Centre",
+    "ADDRESS":"4020 26 AV SE",
+    "COMM_CODE":"FLN",
+    "location":"(51.03081979535198, -113.97681956969974)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0618193,51.04472594 ]
+    },
+    "properties": {
+    "TYPE":"Attraction",
+    "NAME":"Telus Convention Centre",
+    "ADDRESS":"120 9 AV SE",
+    "COMM_CODE":"DNC",
+    "location":"(51.04472593510657, -114.06181929820227)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0600555,51.04534218 ]
+    },
+    "properties": {
+    "TYPE":"Attraction",
+    "NAME":"Arts Commons",
+    "ADDRESS":"205 8 AV SE",
+    "COMM_CODE":"DNC",
+    "location":"(51.0453421839633, -114.06005554212223)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0788446,50.94621373 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Canyon Meadows Community Centre",
+    "ADDRESS":"848 Cantabrian DR SW",
+    "COMM_CODE":"CAN",
+    "location":"(50.9462137346422, -114.07884464053892)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0245847,51.05384024 ]
+    },
+    "properties": {
+    "TYPE":"Attraction",
+    "NAME":"TELUS Spark  Centre",
+    "ADDRESS":"220 ST GEORGES DR NE",
+    "COMM_CODE":"REN",
+    "location":"(51.05384024422898, -114.02458466607398)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0492118,50.9369456 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Lake Bonavista Community Centre",
+    "ADDRESS":"1401 Acadia DR SW",
+    "COMM_CODE":"LKB",
+    "location":"(50.93694560472317, -114.04921183932436)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0909273,51.04633762 ]
+    },
+    "properties": {
+    "TYPE":"Attraction",
+    "NAME":"Shaw Millenium Park",
+    "ADDRESS":"1220 9 AV SW",
+    "COMM_CODE":"DNW",
+    "location":"(51.04633761662411, -114.09092733904481)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0679851,51.06194408 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Crescent Heights Community Centre",
+    "ADDRESS":"1101 2 ST NW",
+    "COMM_CODE":"CRE",
+    "location":"(51.06194408124397, -114.06798512418247)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.945256,51.07156695 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Pineridge Community Centre",
+    "ADDRESS":"6024 Rundlehorn DR NE",
+    "COMM_CODE":"PIN",
+    "location":"(51.071566954562215, -113.94525595698727)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1368419,51.04488712 ]
+    },
+    "properties": {
+    "TYPE":"PHS Clinic",
+    "NAME":"Shaganappi Complex Health Centre",
+    "ADDRESS":"3415 - 8 AV SW",
+    "COMM_CODE":"SPR",
+    "location":"(51.04488712410958, -114.13684189371192)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0860568,51.03173477 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Mount Royal Community Centre",
+    "ADDRESS":"2317 10 ST SW",
+    "COMM_CODE":"UMR",
+    "location":"(51.0317347745017, -114.08605677865727)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1520857,51.02298572 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Glenbrook Community Centre",
+    "ADDRESS":"3524 45 ST SW",
+    "COMM_CODE":"GBK",
+    "location":"(51.0229857234291, -114.15208565393783)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.946308,51.10454915 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Falconridge/Castleridge Community Centre",
+    "ADDRESS":"95 Falshire DR NE",
+    "COMM_CODE":"FAL",
+    "location":"(51.10454915477844, -113.94630797739877)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1014971,51.03252313 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Bankview Community Centre",
+    "ADDRESS":"2418 17 ST SW",
+    "COMM_CODE":"BNK",
+    "location":"(51.03252312936438, -114.10149710486294)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0463219,51.0499507 ]
+    },
+    "properties": {
+    "TYPE":"Social Dev Ctr",
+    "NAME":"Bridgeland Place",
+    "ADDRESS":"736 MCDOUGALL CO NE",
+    "COMM_CODE":"BRD",
+    "location":"(51.049950695912564, -114.04632193918891)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.2312213,51.15704802 ]
+    },
+    "properties": {
+    "TYPE":"Library",
+    "NAME":"Rocky Ridge Library",
+    "ADDRESS":"11300 ROCKY RIDGE RD NW",
+    "COMM_CODE":"01K",
+    "location":"(51.15704802439875, -114.23122131314075)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.101184,51.04040342 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Scarboro Community Centre",
+    "ADDRESS":"1727 14 AV SW",
+    "COMM_CODE":"SNA",
+    "location":"(51.04040341906903, -114.10118400627381)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.145169,51.01736147 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Glamorgan Community Centre",
+    "ADDRESS":"4207 41 AV SW",
+    "COMM_CODE":"GLA",
+    "location":"(51.01736147213117, -114.14516898574892)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0676925,51.05293242 ]
+    },
+    "properties": {
+    "TYPE":"Attraction",
+    "NAME":"Eau Claire Market",
+    "ADDRESS":"200 Barclay PR SW",
+    "COMM_CODE":"EAU",
+    "location":"(51.05293242434599, -114.0676925337625)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0433391,50.95989273 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Willow Park / Mapleridge Community Centre",
+    "ADDRESS":"680 Acadia DR SE",
+    "COMM_CODE":"MPL",
+    "location":"(50.95989272824391, -114.04333908100614)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0865931,50.95678372 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Southwood Community Centre",
+    "ADDRESS":"11 Sackville DR SW",
+    "COMM_CODE":"SOW",
+    "location":"(50.95678371616465, -114.08659309867875)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0195175,51.03251815 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Inglewood Community Centre",
+    "ADDRESS":"1740 24 AV SE",
+    "COMM_CODE":"ING",
+    "location":"(51.03251815243918, -114.01951750218385)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0451883,51.0440588 ]
+    },
+    "properties": {
+    "TYPE":"Attraction",
+    "NAME":"Fort Calgary",
+    "ADDRESS":"750 9 AV SE",
+    "COMM_CODE":"DNE",
+    "location":"(51.044058796792875, -114.04518834889905)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.202577,51.13309369 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Arbour Lake Community Centre",
+    "ADDRESS":"12 Arbour Lake DR NW",
+    "COMM_CODE":"ARB",
+    "location":"(51.13309369009856, -114.2025770185727)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1378448,51.09750325 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Brentwood Community Centre",
+    "ADDRESS":"5107 33 ST NW",
+    "COMM_CODE":"BRE",
+    "location":"(51.09750324772107, -114.137844810739)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0653037,51.05128465 ]
+    },
+    "properties": {
+    "TYPE":"Attraction",
+    "NAME":"Calgary Chinese Cultural Centre",
+    "ADDRESS":"197 1 ST SW",
+    "COMM_CODE":"CHN",
+    "location":"(51.05128465468019, -114.0653037065633)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0851725,51.13164348 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Beddington Heights Community Centre",
+    "ADDRESS":"375 Bermuda DR NW",
+    "COMM_CODE":"BED",
+    "location":"(51.13164348498047, -114.08517247675093)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1043482,51.06545717 ]
+    },
+    "properties": {
+    "TYPE":"Library",
+    "NAME":"Louise Riley Library",
+    "ADDRESS":"1904 14 AV NW",
+    "COMM_CODE":"HOU",
+    "location":"(51.06545716724518, -114.1043481504755)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0616125,51.1012063 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Thorncliffe/Greenview Community Centre",
+    "ADDRESS":"5600 Centre ST NE",
+    "COMM_CODE":"THO",
+    "location":"(51.10120629803327, -114.06161252089136)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.963017,51.0492163 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Forest Heights/ Fonda Community Centre",
+    "ADDRESS":"4909 Forego AV SE",
+    "COMM_CODE":"FHT",
+    "location":"(51.0492163000285, -113.96301697492487)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1319952,50.96876643 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Oakridge Community Centre",
+    "ADDRESS":"9504 Oakfield DR SW",
+    "COMM_CODE":"OAK",
+    "location":"(50.96876642604296, -114.13199522810099)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1298132,51.07745246 ]
+    },
+    "properties": {
+    "TYPE":"Attraction",
+    "NAME":"Nickle Arts Museum (University of Calgary)",
+    "ADDRESS":"410 University CO NW",
+    "COMM_CODE":"UOC",
+    "location":"(51.07745245533072, -114.12981317228409)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.9545544,51.07538752 ]
+    },
+    "properties": {
+    "TYPE":"Library",
+    "NAME":"Village Square Library",
+    "ADDRESS":"2623 56 ST NE",
+    "COMM_CODE":"PIN",
+    "location":"(51.07538752061588, -113.95455439191234)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0584187,51.04624513 ]
+    },
+    "properties": {
+    "TYPE":"Attraction",
+    "NAME":"Olympic Plaza",
+    "ADDRESS":"228 8 AV SE",
+    "COMM_CODE":"DNC",
+    "location":"(51.04624513319553, -114.05841869481438)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1189263,51.03991525 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Shaganappi Community Centre",
+    "ADDRESS":"2608 14 AV SW",
+    "COMM_CODE":"SHG",
+    "location":"(51.03991525395378, -114.11892631077158)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.9619986,51.07467132 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Rundle Community Centre",
+    "ADDRESS":"2409 50 ST NE",
+    "COMM_CODE":"RUN",
+    "location":"(51.07467131714376, -113.96199861949505)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0647616,51.01847818 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Parkhill/Stanley Park Community Centre",
+    "ADDRESS":"4013 Stanley RD SW",
+    "COMM_CODE":"PKH",
+    "location":"(51.018478175395174, -114.06476159523832)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1735199,51.14472286 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Citadel Community Centre",
+    "ADDRESS":"860 CITADEL DR NW",
+    "COMM_CODE":"CIT",
+    "location":"(51.14472286350329, -114.17351992922289)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1597161,51.11284884 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Dalhousie Community Centre",
+    "ADDRESS":"5432 Dalhart RD NW",
+    "COMM_CODE":"DAL",
+    "location":"(51.11284883790082, -114.15971614293404)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0690587,51.04653468 ]
+    },
+    "properties": {
+    "TYPE":"Attraction",
+    "NAME":"Devonian Gardens -  The CORE Shopping Centre",
+    "ADDRESS":"317 7 AV SW",
+    "COMM_CODE":"DNC",
+    "location":"(51.04653467951193, -114.0690586995268)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0690596,51.041109 ]
+    },
+    "properties": {
+    "TYPE":"Library",
+    "NAME":"Memorial Park Library",
+    "ADDRESS":"1221 2 ST SW",
+    "COMM_CODE":"BLN",
+    "location":"(51.041109003931396, -114.06905961378371)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0922449,51.06360628 ]
+    },
+    "properties": {
+    "TYPE":"Attraction",
+    "NAME":"Southern Alberta Jubilee Auditorium",
+    "ADDRESS":"1415 14 AV NW",
+    "COMM_CODE":"HIL",
+    "location":"(51.06360627614137, -114.09224487171537)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0963207,50.99182889 ]
+    },
+    "properties": {
+    "TYPE":"Hospital",
+    "NAME":"Rockyview General Hospital",
+    "ADDRESS":"7007 - 14 ST SW",
+    "COMM_CODE":"EAG",
+    "location":"(50.991828888017004, -114.09632069904508)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0741232,51.0469256 ]
+    },
+    "properties": {
+    "TYPE":"Court",
+    "NAME":"Alberta Provincial Court (Civil)",
+    "ADDRESS":"# 606-S 601 5 ST SW",
+    "COMM_CODE":"DNC",
+    "location":"(51.04692560365985, -114.074123212687)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.9879885,51.03332154 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Southview Community Centre",
+    "ADDRESS":"2020 33 ST SE",
+    "COMM_CODE":"SOV",
+    "location":"(51.03332153619417, -113.9879884552357)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1656058,51.07160849 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Montgomery Community Centre",
+    "ADDRESS":"5003 - 16 AV NW",
+    "COMM_CODE":"MON",
+    "location":"(51.07160849280569, -114.16560579916423)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0609114,50.95171805 ]
+    },
+    "properties": {
+    "TYPE":"Library",
+    "NAME":"Fish Creek Library",
+    "ADDRESS":"11161 BONAVENTURE DR SE",
+    "COMM_CODE":"WIL",
+    "location":"(50.95171805364437, -114.06091141872936)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1753628,51.01879984 ]
+    },
+    "properties": {
+    "TYPE":"Library",
+    "NAME":"Signal Hill Library",
+    "ADDRESS":"5994 SIGNAL HILL CT SW",
+    "COMM_CODE":"SIG",
+    "location":"(51.01879983635221, -114.17536278617024)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0519704,51.03740133 ]
+    },
+    "properties": {
+    "TYPE":"Attraction",
+    "NAME":"Scotiabank Saddledome",
+    "ADDRESS":"555 Saddledome RI SE",
+    "COMM_CODE":"BLN",
+    "location":"(51.037401331867834, -114.05197037229337)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1925301,51.10465214 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Silver Springs Community Centre",
+    "ADDRESS":"5720 Silver Ridge DR NW",
+    "COMM_CODE":"SIL",
+    "location":"(51.10465213762893, -114.19253010146795)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1578973,51.04463307 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Westgate Community Centre",
+    "ADDRESS":"4943 8 AV SW",
+    "COMM_CODE":"WGT",
+    "location":"(51.044633072531504, -114.15789734393195)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1082438,50.9848337 ]
+    },
+    "properties": {
+    "TYPE":"Attraction",
+    "NAME":"Heritage Park Historical Village",
+    "ADDRESS":"1900 Heritage Dr SW",
+    "COMM_CODE":"GPK",
+    "location":"(50.98483370113588, -114.10824382482379)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0741232,51.0469256 ]
+    },
+    "properties": {
+    "TYPE":"Court",
+    "NAME":"Alberta Provincial Court (Family)",
+    "ADDRESS":"# 704-N 601 5 ST SW",
+    "COMM_CODE":"DNC",
+    "location":"(51.04692560365985, -114.074123212687)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0849477,50.98759577 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Chinook Park/Kelvin Grove/Eagle Ridge Community Centre",
+    "ADDRESS":"1015 73 AV SW",
+    "COMM_CODE":"KEL",
+    "location":"(50.98759577417002, -114.08494774002713)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0758381,51.04563942 ]
+    },
+    "properties": {
+    "TYPE":"Court",
+    "NAME":"Federal Court of Appeal",
+    "ADDRESS":"635 8 AV SW",
+    "COMM_CODE":"DNC",
+    "location":"(51.04563942132596, -114.07583807349852)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1117154,51.08631751 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Triwood Community Centre",
+    "ADDRESS":"2244 Chicoutimi DR NW",
+    "COMM_CODE":"CHW",
+    "location":"(51.08631750676294, -114.11171536406809)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1276829,51.0287192 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Killarney/Glengarry Community Centre",
+    "ADDRESS":"2828 28 ST SW",
+    "COMM_CODE":"KIL",
+    "location":"(51.02871920189859, -114.12768294840178)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1182079,51.07040502 ]
+    },
+    "properties": {
+    "TYPE":"Attraction",
+    "NAME":"Calgary Stampeders Football - McMahon Stadium",
+    "ADDRESS":"1817 Crowchild TR NW",
+    "COMM_CODE":"UOC",
+    "location":"(51.07040501943504, -114.1182079300792)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0365779,51.01846694 ]
+    },
+    "properties": {
+    "TYPE":"Attraction",
+    "NAME":"Calgary Firefighters Museum",
+    "ADDRESS":"4124 11 ST SE",
+    "COMM_CODE":"HIF",
+    "location":"(51.01846693545822, -114.03657793516909)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0575006,51.04507583 ]
+    },
+    "properties": {
+    "TYPE":"Attraction",
+    "NAME":"Triangle Art Gallery",
+    "ADDRESS":"#104 800 Macleod TR SE",
+    "COMM_CODE":"DNC",
+    "location":"(51.045075826509134, -114.05750055836236)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.2219925,51.08346059 ]
+    },
+    "properties": {
+    "TYPE":"Attraction",
+    "NAME":"Canada's Sports Hall of Fame",
+    "ADDRESS":"169 Canada Olympic Road SW",
+    "COMM_CODE":"COP",
+    "location":"(51.083460590375374, -114.22199246540958)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1971615,51.12333355 ]
+    },
+    "properties": {
+    "TYPE":"PHS Clinic",
+    "NAME":"Northwest Community Health Centre",
+    "ADDRESS":"109 1829 Ranchlands BV NW",
+    "COMM_CODE":"RAN",
+    "location":"(51.123333552258295, -114.1971615208791)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.9324483,50.91485983 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Copperfield & Mahogany Community Center",
+    "ADDRESS":"6 Copperstone Way SE",
+    "COMM_CODE":"CPF",
+    "location":"(50.91485982683862, -113.93244829251158)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.96695,51.08878862 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Whitehorn Community Centre",
+    "ADDRESS":"228 Whitehorn RD NE",
+    "COMM_CODE":"WHI",
+    "location":"(51.08878861800125, -113.96694996868959)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0943301,50.8895649 ]
+    },
+    "properties": {
+    "TYPE":"Attraction",
+    "NAME":"Spruce Meadows Equestrian Centre",
+    "ADDRESS":"18011 Spruce Meadows WY SW",
+    "COMM_CODE":"",
+    "location":"(50.88956489509549, -114.09433006613926)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0108514,50.99147136 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Millican/Ogden/Lynnwood Community Centre",
+    "ADDRESS":"6901 20A ST SE",
+    "COMM_CODE":"OGD",
+    "location":"(50.991471359578625, -114.01085136252242)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0866232,51.09909773 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"North Haven Community Centre",
+    "ADDRESS":"5003 North Haven DR NW",
+    "COMM_CODE":"NHV",
+    "location":"(51.099097726092864, -114.08662318987814)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0631126,51.04448024 ]
+    },
+    "properties": {
+    "TYPE":"Attraction",
+    "NAME":"Calgary Tower",
+    "ADDRESS":"101 9 AV SW",
+    "COMM_CODE":"DNC",
+    "location":"(51.04448023768848, -114.06311258857386)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.9320225,51.05961291 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Abbeydale Community Centre",
+    "ADDRESS":"821 Abbeydale DR NE",
+    "COMM_CODE":"ABB",
+    "location":"(51.05961291015646, -113.93202249812654)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0583675,51.04518493 ]
+    },
+    "properties": {
+    "TYPE":"Visitor Info",
+    "NAME":"Calgary Chamber of Commerce",
+    "ADDRESS":"600 237 8 AV SE",
+    "COMM_CODE":"DNC",
+    "location":"(51.0451849276814, -114.05836753988049)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1170348,51.02992082 ]
+    },
+    "properties": {
+    "TYPE":"Community Centre",
+    "NAME":"Richmond/Knob Hill Community Centre",
+    "ADDRESS":"2433 26 AV SW",
+    "COMM_CODE":"RIC",
+    "location":"(51.02992081967741, -114.11703482233399)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0579272,51.0453997 ]
+    },
+    "properties": {
+    "TYPE":"Attraction",
+    "NAME":"Calgary City Hall & Municipal Complex",
+    "ADDRESS":"800 Macleod TR SE",
+    "COMM_CODE":"DNC",
+    "location":"(51.04539970470251, -114.05792721563786)"
+    }
+  }
+]
+}
