@@ -1,0 +1,113 @@
+{% extends "layout.html" %}
+
+{% block heading %}
+{% endblock %}
+
+{% block body %}
+<div id='map'></div>
+<script>
+  mapboxgl.accessToken = 'pk.eyJ1Ijoiem9ld2Fsc2giLCJhIjoiY2trbGl2NzVmMWp2YjMxcTlpcmF3eXZ5YSJ9.UVZBfaC844oYgXMD0KlPDA';
+  var map = new mapboxgl.Map({
+    container: 'map', // container id
+    style: 'mapbox://styles/mapbox/light-v10', // stylesheet location
+    center: [-114.072, 51.035], // starting position
+    zoom: 11 // starting zoom
+  });
+
+  var services = '{{ url_services }}'
+  var schools = '{{ url_schools }}'
+
+  map.on('load', function() {
+    map.addLayer({
+      id: 'services',
+      type: 'symbol',
+      source: {
+      type: 'geojson',
+      data: services
+      },
+      layout: {
+      'icon-image': 'hospital-15',
+      'icon-allow-overlap': true
+      },
+      paint: { }
+    });
+    map.addLayer({
+      id: 'schools',
+      type: 'symbol',
+      source: {
+      type: 'geojson',
+      data: schools
+      },
+      layout: {
+      'icon-image': 'school-15',
+      'icon-allow-overlap': true
+      },
+      paint: { }
+    });
+    map.addSource('nearest-service', {
+      type: 'geojson',
+      data: {
+      type: 'FeatureCollection',
+      features: []
+      }
+    });
+  });
+  // for popups
+  var popup = new mapboxgl.Popup();
+  // mouse hover event
+  map.on('mousemove', function(e) {
+    var features = map.queryRenderedFeatures(e.point, { layers: ['services', 'schools'] });
+
+    if (!features.length) {
+      popup.remove();
+      return;
+    }
+
+    var feature = features[0];
+
+    popup.setLngLat(feature.geometry.coordinates).setHTML(feature.properties.NAME).addTo(map);
+
+    map.getCanvas().style.cursor = features.length ? 'pointer' : '';
+  });
+
+  // mouse click event
+  map.on('click', function(e) {
+    //console.log('A click event has occurred at ' + e.lngLat);
+    var schoolFeatures = map.queryRenderedFeatures(e.point, { layers: ['schools'] });
+    // for testing
+    console.log(schoolFeatures)
+    // PROBLEM - schoolFeatures is undefined always
+    if (!schoolFeatures.length) {
+      return;
+    }
+
+    var schoolFeature = schoolFeatures[0];
+
+    // Using Turf, find the nearest healthcare service to school clicked
+    var nearestService = turf.nearest(schoolFeature, services);
+
+    // If a nearest service is found
+    if (nearestService !== null) {
+      // Update the 'nearest-service' data source to include
+      // the nearest service
+      map.getSource('nearest-service').setData({
+        type: 'FeatureCollection',
+        features: [
+        nearestService
+        ]
+      });
+
+    // Create a new circle layer from the 'nearest-service' data source
+    map.addLayer({
+      id: 'nearest-service',
+      type: 'circle',
+      source: 'nearest-service',
+      paint: {
+        'circle-radius': 12,
+        'circle-color': '#486DE0'}
+      }, 'services');
+    }
+  });
+
+</script>
+{% endblock %}
