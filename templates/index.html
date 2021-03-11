@@ -74,8 +74,6 @@
   map.on('click', function(e) {
     //console.log('A click event has occurred at ' + e.lngLat);
     var schoolFeatures = map.queryRenderedFeatures(e.point, { layers: ['schools'] });
-    // for testing
-    console.log(schoolFeatures)
     // PROBLEM - schoolFeatures is undefined always
     if (!schoolFeatures.length) {
       return;
