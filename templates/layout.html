@@ -6,6 +6,7 @@
     <link href='https://api.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.css' rel='stylesheet' />
     <script src='https://api.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.js'></script>
     <script src='https://api.mapbox.com/mapbox.js/plugins/turf/v3.0.11/turf.min.js'></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
     <link rel="icon" href="data:;base64,=">
   </head>
 
@@ -28,10 +29,8 @@
     <div class="middle">
         {% block heading %}
         {% endblock %}
-      <div id="mapid">
         {% block body %}
         {% endblock %}
-      </div>
     </div>
   </body>
 </html>

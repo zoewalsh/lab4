@@ -14,9 +14,30 @@
     zoom: 11 // starting zoom
   });
 
-  var services = '{{ url_services }}'
-  var schools = '{{ url_schools }}'
+  var services_url = '{{ url_services }}'
+  var schools_url = '{{ url_schools }}'
 
+  //fetch data from geojson files and save in variables
+  let services;
+  let schools;
+
+  fetch(services_url)
+  .then(response => {
+     return response.json();
+  })
+  .then(function(serv){
+    services=serv;
+  });
+
+  fetch(schools_url)
+  .then(response => {
+     return response.json();
+  })
+  .then(function(sch){
+    schools=sch;
+  });
+
+  // load layers
   map.on('load', function() {
     map.addLayer({
       id: 'services',
@@ -74,7 +95,7 @@
   map.on('click', function(e) {
     //console.log('A click event has occurred at ' + e.lngLat);
     var schoolFeatures = map.queryRenderedFeatures(e.point, { layers: ['schools'] });
-    // PROBLEM - schoolFeatures is undefined always
+
     if (!schoolFeatures.length) {
       return;
     }
@@ -82,7 +103,7 @@
     var schoolFeature = schoolFeatures[0];
 
     // Using Turf, find the nearest healthcare service to school clicked
-    var nearestService = turf.nearest(schoolFeature, services);
+    var nearestService = turf.nearest(schoolFeature, 'services');
 
     // If a nearest service is found
     if (nearestService !== null) {
@@ -106,6 +127,8 @@
       }, 'services');
     }
   });
+
+</script>
 
 </script>
 {% endblock %}
