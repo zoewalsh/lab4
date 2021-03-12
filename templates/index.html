@@ -103,7 +103,7 @@
     var schoolFeature = schoolFeatures[0];
 
     // Using Turf, find the nearest healthcare service to school clicked
-    var nearestService = turf.nearest(schoolFeature, 'services');
+    var nearestService = turf.nearest(schoolFeature, services);
 
     // If a nearest service is found
     if (nearestService !== null) {
