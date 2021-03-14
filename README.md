@@ -10,7 +10,7 @@ code passes the url for the two geojson files containing the school and healthca
 
 index.html - The main html file for this project. First, the data from the two geojson files is loaded into two variables using fetch.
 The provided mapbox tutorial was followed, and the mapbox light style was used. The two layers were added to the map separately. The
-schools are represented by the "school" symbol (pencil and paper), and the healthcare services are represented by the "hospital"
+schools are represented by the "school" symbol (pencil and ruler), and the healthcare services are represented by the "hospital"
 symbol (cross). Hovering over a school or healthcare service symbol will display a popup with the name and address. The popup closes
 itself when the mouse is moved off the symbol. Clicking on a school symbol will call the turf.nearest() function to find the
 nearest healthcare service to that school. The nearest healthcare service will be displayed with a red circle around the symbol.
