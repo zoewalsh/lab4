@@ -19,5 +19,5 @@ if sys.platform.lower() == "win64":
 @app.route("/", methods=['POST', 'GET'])
 def index():
     url_services = request.url_root + 'static/Community_Services.geojson'
-    url_schools = request.url_root + 'static/School_Locations.geojson'
+    url_schools = request.url_root + 'static/Schools.geojson'
     return render_template("index.html", url_services=url_services, url_schools=url_schools)

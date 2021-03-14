@@ -15,11 +15,11 @@
   });
 
   var services_url = '{{ url_services }}'
-  var schools = '{{ url_schools }}'
+  var schools_url = '{{ url_schools }}'
 
   //fetch data from geojson files and save in variables
   let services;
-  //let schools;
+  let schools;
 
   fetch(services_url)
   .then(response => {
@@ -29,13 +29,13 @@
     services=serv;
   });
 
-  //fetch(schools_url)
-  //.then(response => {
-     //return response.json();
-  //})
-  //.then(function(sch){
-    //schools=sch;
-  //});
+  fetch(schools_url)
+  .then(response => {
+     return response.json();
+  })
+  .then(function(sch){
+    schools=sch;
+  });
 
   // load layers
   map.on('load', function() {
@@ -85,8 +85,8 @@
     }
 
     var feature = features[0];
-
-    popup.setLngLat(feature.geometry.coordinates).setHTML(feature.properties.NAME).addTo(map);
+    // display name and address
+    popup.setLngLat(feature.geometry.coordinates).setHTML('<h4>'+ feature.properties.NAME + '</h4>'+'<h5>'+ feature.properties.ADDRESS +'</h5>').addTo(map);
 
     map.getCanvas().style.cursor = features.length ? 'pointer' : '';
   });
@@ -122,7 +122,7 @@
       type: 'circle',
       source: 'nearest-service',
       paint: {
-        'circle-radius': 13,
+        'circle-radius': 14,
         'circle-color': '#C70039'}
       }, 'services');
     }
