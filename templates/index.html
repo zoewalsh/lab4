@@ -11,15 +11,15 @@
     container: 'map', // container id
     style: 'mapbox://styles/mapbox/light-v10', // stylesheet location
     center: [-114.072, 51.035], // starting position
-    zoom: 11 // starting zoom
+    zoom: 10 // starting zoom
   });
 
   var services_url = '{{ url_services }}'
-  var schools_url = '{{ url_schools }}'
+  var schools = '{{ url_schools }}'
 
   //fetch data from geojson files and save in variables
   let services;
-  let schools;
+  //let schools;
 
   fetch(services_url)
   .then(response => {
@@ -29,13 +29,13 @@
     services=serv;
   });
 
-  fetch(schools_url)
-  .then(response => {
-     return response.json();
-  })
-  .then(function(sch){
-    schools=sch;
-  });
+  //fetch(schools_url)
+  //.then(response => {
+     //return response.json();
+  //})
+  //.then(function(sch){
+    //schools=sch;
+  //});
 
   // load layers
   map.on('load', function() {
